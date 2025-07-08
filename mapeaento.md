@@ -15,3 +15,7 @@ curl na aplicação , verificar os headers, que podem revelar o backend real</br
 sitemap com burp suite</br>
 mapear pontos de vulnerabilidade (apis e diretorios)</br>
 nmap e mapeamento de rede</br>
+
+--------------------------------------------
+
+Tentar metodos diferentes em endpoints / mesmo que apresentem 403 para diferentes metodos 
