@@ -15,6 +15,8 @@ curl na aplicação , verificar os headers, que podem revelar o backend real</br
 sitemap com burp suite</br>
 mapear pontos de vulnerabilidade (apis e diretorios)</br>
 nmap e mapeamento de rede</br>
+conferir waybackmachine : https://web.archive.org/cdx/search/cdx?url=*.https://instagram.com//&*collapse=urlkey&output=text&fl=original
+(alterar instagram para sua url)
 
 --------------------------------------------
 
